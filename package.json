@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://davidwells@github.com/inboundnow/leads.git"
+    "url": "https://github.com/rekataip/leads.git"
   },
   "keywords": [
     "cta",
@@ -19,9 +19,9 @@
   "author": "Inbound Now",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/inboundnow/leads/issues"
+    "url": "https://github.com/rekataip/leads/issues"
   },
-  "homepage": "https://github.com/inboundnow/leads",
+  "homepage": "https://github.com/rekataip/leads",
   "dependencies": {},
   "devDependencies": {
     "grunt-wp-readme-to-markdown": "^0.8.0",
